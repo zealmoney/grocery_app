@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#bgSegment{
+  background-image:
+  linear-gradient(to bottom, rgba(72, 201, 176, 0.5), rgba(72, 201, 176, 0.5)),
+  url('wall.webp');  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#bgSegmentHistory{
+  background-image:
+  linear-gradient(to bottom, rgba(72, 201, 176, 0.5), rgba(72, 201, 176, 0.5)),
+  url('aboutus.webp');  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#bgColumn{
+  background:
+  linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bgColumnHistory{
+  background:
+  linear-gradient(to bottom, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9));  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
