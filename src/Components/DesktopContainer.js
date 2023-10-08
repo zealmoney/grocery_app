@@ -26,7 +26,7 @@ const DesktopContainer = () => {
             >
                 <Container>
                     <Menu.Item>
-                        <Link style={{color: '#000'}} to='/'>Grocery Store</Link>
+                    <Link style={{color: '#000'}} to='/'>KEFENA.COM</Link>
                     </Menu.Item>
                     <Menu.Item active as="a" onClick={() => navigate("/")}>Home</Menu.Item>
                     <Menu.Item as="a" onClick={() => navigate("/openproducts/1")}>Products</Menu.Item>
